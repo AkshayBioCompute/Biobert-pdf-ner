@@ -1,0 +1,4 @@
+{
+  "extract_entities_workflow.pdf_folder": "/path/to/pdfs",
+  "extract_entities_workflow.output_folder": "/path/to/output"
+}

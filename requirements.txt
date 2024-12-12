@@ -1,0 +1,3 @@
+echo "transformers" > requirements.txt
+echo "PyPDF2" >> requirements.txt
+
